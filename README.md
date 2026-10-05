@@ -59,7 +59,7 @@ Game modes and multitudes of game divergence are valid for C-Flow.
 
 - **Frictionless Scalability:** Establishes the baseline dynamic as the main gravity. Hence it allows UI, narrative scripts, and extra modes to scale without diluting the core experience.
 
-## 75% Efficiency & Accuracy
+## Efficiency & Accuracy
 
 - **The 75% Factor:** Structuring baseline dynamics around *Csikszentmihalyi’s flow criteria pre-development* predicts retention and commercial success with **75% statistical accuracy**.
 
