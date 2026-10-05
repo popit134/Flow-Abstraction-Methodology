@@ -43,6 +43,7 @@ A characteristic of balance, optimism, and depth thinking useful for game analys
 
 ## River Effect
 Structured flows achieve ultimate retention or hook.
-> A great dynamics communicate the players about the concepts and intended message utilized for intellectual flow—a succesful conscious negotiation between players for favor. Example: Daily Rewards
+> A great dynamics communicate the players about the concepts and intended message utilized for intellectual flow—a succesful conscious negotiation between players for favor. 
+> Example: Daily Rewards & Leaderboard Aspiration
 
 Game modes and multitudes of game divergence are valid for C-Flow.
