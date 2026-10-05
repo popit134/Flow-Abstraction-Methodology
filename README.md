@@ -40,6 +40,7 @@ A characteristic of balance, optimism, and depth thinking useful for game analys
 
 - Focusing on depth rather than the sole quantity
 > Example: Deepening the mechanics through subtraction of use and addition of suspense in gameplay.
+> Against: Adding excessive mechanics & elements that result into bad guesswork of the objective.
 
 ## River Effect
 Structured flows achieve ultimate retention or hook.
