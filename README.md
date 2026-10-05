@@ -16,7 +16,7 @@ Involves psychological flow abstraction to analyze the fundamental sensation thr
 - Captures the game essence hence allowing relevant expansion. 
 
 ## Examples of Valid Flow Abstractions or Baseline Dynamics:
-C-Flow is versatile on all genres, CFlow mandates gravity as the sensation.
+C-Flow is versatile on all genres, C-Flow mandates gravity as the sensation.
 
 - "Dancing to the rhythmic scans of barcodes while displaying read-only music notes UI." 
 Allows UI and Instructions and any elements to be in the flow abstraction if necessary.
@@ -36,12 +36,12 @@ What defines a game is subjective to everyone.
 ## Constructive Depth
 A characteristic of balance, optimism, and depth thinking useful for game analysis & update.
 - Analyzing thoroughly with genuine judgement and transparency.
- - Example: Enchancing a weak critical point that players desire.
+> Example: Enchancing a weak critical point that players desire.
 
 - Focusing on depth rather than the sole quantity
- - Example: Deepening the mechanics through subtraction of use and addition of suspense in gameplay.
+> Example: Deepening the mechanics through subtraction of use and addition of suspense in gameplay.
 
 ## River Effect
 Structured flows achieve ultimate retention or hook.
 
-Game modes and multitudes of game divergence are valid for CFlow.
+Game modes and multitudes of game divergence are valid for C-Flow.
