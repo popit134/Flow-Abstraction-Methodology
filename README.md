@@ -1,4 +1,5 @@
-# Flow Abstraction (C-Flow or Core-Flow)
+# Flow Abstraction (C-Flow)
+*C-Flow abbreviates to Core Flow*
 A flow state game design methodology for retention through inherent flow.
 
 It prioritizes baseline dynamics or pure sensation as the gravity of the game concept.
