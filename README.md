@@ -36,8 +36,10 @@ What defines a game is subjective to everyone.
 ## Constructive Depth
 A characteristic of balance, optimism, and depth thinking useful for game analysis & update.
 - Analyzing thoroughly with genuine judgement and transparency.
+ - Example: Enchancing a weak critical point that players desire.
 
-- Focusing on depth rather than the sole quantity.
+- Focusing on depth rather than the sole quantity
+ - Example: Deepening the mechanics through subtraction of use and addition of suspense in gameplay.
 
 ## River Effect
 Structured flows achieve ultimate retention or hook.
