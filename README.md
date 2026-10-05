@@ -35,7 +35,7 @@ What defines a game is subjective to everyone.
 
 ## Constructive Depth
 A characteristic of balance, optimism, and depth thinking useful for game analysis & update.
-- Abstracting surface to edge details for careful analysis. 
+- Analyzing thoroughly with genuine judgement and transparency.
 
 - Focusing on depth rather than the sole quantity.
 
