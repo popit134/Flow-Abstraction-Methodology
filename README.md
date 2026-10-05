@@ -1,5 +1,6 @@
 # Flow Abstraction (C-Flow)
 *C-Flow Stands For Core Flow*
+
 A flow state game design methodology for retention through inherent flow.
 
 It prioritizes baseline dynamics or pure sensation as the gravity of the game concept.
