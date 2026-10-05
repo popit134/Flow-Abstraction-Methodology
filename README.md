@@ -7,7 +7,7 @@ It prioritizes baseline dynamics or pure sensation as the gravity of the game co
 
 *"Dynamic" in this context means the motion or nature of the sensation and communication of the game broader than behaviors and actions.*
 
-**The Flow Abstraction Theory states it is easier to set inherent flow dynamics than prioritizing the other elements that alter it.**
+**The Flow Abstraction Theory states it is easier to set inherent flow dynamics first than prioritizing the other elements that alter it.**
 
 Involves psychological flow abstraction to analyze the fundamental sensation through baseline dynamics.
 
