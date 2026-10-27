@@ -67,3 +67,4 @@ Game modes and multitudes of game divergence are valid for C-Flow.
 1. As stated to aim for a target market, it narrows something subjective to a smaller stake; respecting no size fits all.
 2. Validate your game concept by starting at the dynamics which makes the game inherently playable.
 3. Analyze then expand, notice details not by rigid checkmarks alone but how players will feel, and think to achieve your vision about the game.
+4. Focus on what will enhance the meaning and flow even if they diverge from the game idea.
