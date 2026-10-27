@@ -11,6 +11,8 @@ It prioritizes baseline dynamics or pure sensation as the gravity of the game co
 
 Involves psychological flow abstraction to analyze the fundamental sensation through baseline dynamics.
 
+First determine your target audience. Then define a dynamic they will do that won't break their flow.
+
 "The Tactical Crisp of Loot Against Zombie Targets"
 - Evaluates the fundamental splendor if it passes taste test & custom criteria.
 - Captures the game essence hence allowing relevant expansion. 
