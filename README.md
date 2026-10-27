@@ -1,7 +1,7 @@
 # Flow Abstraction
 *C-Flow is an Alternative Word that means Core Flow*
 
-A [flow state](https://en.wikipedia.org/wiki/Flow_(psychology)) game design methodology for retention through inherent flow.
+A [flow state](https://en.wikipedia.org/wiki/Flow_(psychology)) game design methodology for retention and lucidity through inherent flow.
 
 It prioritizes baseline dynamics or pure sensation as the gravity of the game concept.
 
@@ -62,3 +62,8 @@ Game modes and multitudes of game divergence are valid for C-Flow.
 - **Frictionless Scalability:** Establishes the baseline dynamic as the main gravity. Hence it allows UI, narrative scripts, and extra modes to scale without diluting the core experience.
 
 - **Resource Efficiency:** Locking this gravity early eliminates late-stage loop adjustments, reducing production budget and development time by **up to 40%**.
+
+# Tutorial Steps
+1. As stated to aim for a target market, it narrows something subjective to a smaller stake; respecting no size fits all.
+2. Validate your game concept by starting at the dynamics which makes the game inherently playable.
+3. Analyze then expand, notice details not by logic alone but how players will feel, and think to achieve your vision about the game.
