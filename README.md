@@ -9,6 +9,8 @@ It prioritizes baseline dynamics or pure sensation as the gravity of the game co
 
 **The Flow Abstraction Theory states it is easier to set inherent flow dynamics first than prioritizing the other elements that alter it.**
 
+This methodology believes that the game can be boiled down by its dynamics or sensation.
+
 Involves psychological flow abstraction to analyze the fundamental sensation through baseline dynamics.
 
 First determine your target audience. Then define a dynamic they will do that won't break their flow.
