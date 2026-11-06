@@ -45,6 +45,10 @@ A characteristic of balance, optimism, and depth thinking useful for game analys
 
 > Against: Adding excessive mechanics & elements that result into bad guesswork of the objective.
 
+
+### Application
+- See if adding a feature "paywall" to a booth to a social game, would this break the fun of a social game? For me, absolutely.
+
 ## River Effect
 Structured flows achieve ultimate retention or hook.
 > A great dynamics communicate the players about the concepts and intended message utilized for intellectual flow—a succesful conscious negotiation between players for favor. 
