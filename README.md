@@ -74,7 +74,9 @@ Game modes and multitudes of game divergence are valid for C-Flow.
 
 # Tutorial Steps
 ## Game Concept 
-With freedom, choose your game concept you would choose at a long term.
+With freedom, choose your game concept you would choose at a long term. 
+
+It is recommended to make a game concept that starts at the C-Flow itself.
 
 ## Target Audience
 No size fits all, but you should awknowledge the fact that making a game should generally fit all at some aspects, in other words, generally liked upon, or not manipulative.
