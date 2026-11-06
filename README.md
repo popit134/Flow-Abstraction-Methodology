@@ -64,8 +64,11 @@ Game modes and multitudes of game divergence are valid for C-Flow.
 - **Resource Efficiency:** Locking this gravity early eliminates late-stage loop adjustments, reducing production budget and development time by **up to 40%**.
 
 # Tutorial Steps
-0. Make any game concept on desire. Start with a game concept you would like long term.
+Before anything else: Make any game concept on desire. Start with a game concept you would like long term.
 1. As stated to aim for a target market, it narrows something subjective to a smaller stake; respecting no size fits all.
 2. Validate your game concept by starting at the dynamics which makes the game inherently playable.
 3. Analyze then expand, notice details not by rigid checkmarks alone but how players will feel, and think to achieve your vision about the game.
-4. Focus on what will enhance the meaning and flow even if they diverge from the game idea.
+4. Focus on what will enhance the meaning and flow.
+
+# What To Avoid
+- Bloat Features, Pet Peeves, or Major Disatisfactions including pay to win, Frankenstein bloat, & poor game management that defy the unique experience, dynamics, or consistency.
