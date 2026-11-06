@@ -58,7 +58,7 @@ Structured flows achieve ultimate retention or hook.
 Game modes and multitudes of game divergence are valid for C-Flow.
 
 
-# Intended Benefits of C-Flow
+# Intended Optimistic Benefits of C-Flow
 
 - **Organic Player Retention:** Anchors engagement entirely in pure, baseline sensation and identity.
 
@@ -66,7 +66,7 @@ Game modes and multitudes of game divergence are valid for C-Flow.
 
 - **Frictionless Scalability:** Establishes the baseline dynamic as the main gravity. Hence it allows UI, narrative scripts, and extra modes to scale without diluting the core experience.
 
-- **Resource Efficiency:** Locking this gravity early eliminates late-stage loop adjustments, reducing production budget and development time by **up to 40%**.
+- **Resource Efficiency:** Locking this gravity early eliminates late-stage loop adjustments, reducing production budget and development time.
 
 # Tutorial Steps
 ## Game Concept 
