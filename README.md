@@ -72,10 +72,12 @@ Game modes and multitudes of game divergence are valid for C-Flow.
 ## Game Concept 
 With freedom, choose your game concept you would choose at a long term.
 
-## Vision and Target Audience
+## Target Audience
 No size fits all, one might like itself to be doomed while others are on a different spectrum.
 
 Before setting the C-Flow, you must define what to do and what not to do.
+
+If your audience pick is general, pick who CAN be your audience and awknoledge what do players 'objectively' or data drivenly feedbacks.
 
 ## Anchoring the River
 Validate your game concept by starting at the dynamics which makes the game inherently playable.
