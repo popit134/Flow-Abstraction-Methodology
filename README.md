@@ -77,7 +77,7 @@ No size fits all, one might like itself to be doomed while others are on a diffe
 
 Before setting the C-Flow, you must define what to do and what not to do.
 
-If your audience pick is general, pick who CAN be your audience and awknoledge what do players 'objectively' or data drivenly feedbacks.
+If your audience pick is general, pick who CAN be your audience and awknowledge what do players 'objectively' or data drivenly feedbacks.
 
 ## Anchoring the River
 Validate your game concept by starting at the dynamics which makes the game inherently playable.
@@ -85,7 +85,7 @@ Validate your game concept by starting at the dynamics which makes the game inhe
 ## Carving The Way Out
 Analyze then expand, notice details not by rigid checkmarks alone but how players will feel, and think to achieve your vision about the game.
 
-Focus on what will enhance the meaning and flow.
+Focus on what will enhance the meaning and flow. 
 
 # What To Avoid
 - Bloat Features, Pet Peeves, or Major Disatisfactions including pay to win, Frankenstein bloat, & poor game management that defy the unique experience, dynamics, or consistency.
