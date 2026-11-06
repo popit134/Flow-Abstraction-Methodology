@@ -9,20 +9,20 @@ It prioritizes baseline dynamics or pure sensation as the gravity of the game co
 
 **The Flow Abstraction Theory states it is easier to set inherent flow dynamics first than prioritizing the other elements that alter it.**
 
-This methodology believes that the game can be boiled down by its dynamics or sensation.
+This methodology believes that the game can be boiled down by its flow, dynamics, or sensation.
 
 Involves psychological flow abstraction to analyze the fundamental sensation through baseline dynamics.
 
 First determine your target audience. Then define a dynamic they will do that won't break their flow.
 
 "The Tactical Crisp of Loot Against Zombie Targets"
-- Evaluates the fundamental splendor if it passes taste test & custom criteria.
-- Captures the game essence hence allowing relevant expansion. 
+- Evaluates the fundamental splendor if it passes production test & custom criteria.
+- Captures the game essence hence allowing relevant expansion.
 
 ## Examples of Valid Flow Abstractions or Baseline Dynamics:
 C-Flow is versatile on all genres, C-Flow mandates gravity as the sensation.
 
-Note: C-Flow is not just emotional or the feeling, it is also paired with intellectual.
+Important: C-Flow is not just emotion or feeling, it is also paired with intellect.
 
 - "Dancing to the rhythmic scans of barcodes while displaying read-only music notes UI." 
 Allows UI and Instructions and any elements to be in the flow abstraction if necessary.
@@ -40,18 +40,18 @@ It is beyond traditional.
 What defines a game is subjective to everyone.
 
 ## Constructive Depth
-A characteristic of balance, optimism, and depth thinking useful for game analysis & update.
+A characteristic of balance, optimization, and depth thinking useful for game analysis & update.
 - Analyzing thoroughly with genuine judgement and transparency.
 > Example: Enchancing a weak critical point that players desire.
 
-- Focusing on depth rather than the sole quantity
+- Focusing on consistent depth rather than the sole quantity.
 > Example: Deepening the mechanics through subtraction of use and addition of suspense in gameplay.
 
 > Against: Adding excessive mechanics & elements that result into bad guesswork of the objective.
 
 
 ### Application
-Do not focus on just the game concepts, see through the audience too, when making a C-Flow.
+See through the audience when making a C-Flow.
 - See if adding a feature "paywall" to a booth to a social game, would this break the fun of a social game? For me, absolutely.
 
 ## River Effect
