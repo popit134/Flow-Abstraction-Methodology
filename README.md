@@ -47,6 +47,7 @@ A characteristic of balance, optimism, and depth thinking useful for game analys
 
 
 ### Application
+Do not focus on just the game concepts, see through the audience too, when making a C-Flow.
 - See if adding a feature "paywall" to a booth to a social game, would this break the fun of a social game? For me, absolutely.
 
 ## River Effect
