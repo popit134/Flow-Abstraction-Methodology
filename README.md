@@ -20,6 +20,8 @@ First determine your target audience. Then define a dynamic they will do that wo
 ## Examples of Valid Flow Abstractions or Baseline Dynamics:
 C-Flow is versatile on all genres, C-Flow mandates gravity as the sensation.
 
+Note: C-Flow is not just emotional or the feeling, it is also paired with intellectual.
+
 - "Dancing to the rhythmic scans of barcodes while displaying read-only music notes UI." 
 Allows UI and Instructions and any elements to be in the flow abstraction if necessary.
 
