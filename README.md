@@ -85,7 +85,7 @@ Validate your game concept by starting at the dynamics which makes the game inhe
 ## Carving The Way Out
 Analyze then expand, notice details not by rigid checkmarks alone but how players will feel, and think to achieve your vision about the game.
 
-Focus on what will enhance the meaning and flow. 
+Focus on what will enhance the meaning and flow. Whether this C-Flow instance can fit or is relevant or not.
 
 # What To Avoid
 - Bloat Features, Pet Peeves, or Major Disatisfactions including pay to win, Frankenstein bloat, & poor game management that defy the unique experience, dynamics, or consistency.
