@@ -73,7 +73,7 @@ Game modes and multitudes of game divergence are valid for C-Flow.
 With freedom, choose your game concept you would choose at a long term.
 
 ## Target Audience
-No size fits all, one might like itself to be doomed while others are on a different spectrum.
+No size fits all, but you should awknowledge the fact that making a game is generally for audience that fits all at some aspects.
 
 Before setting the C-Flow, you must define what to do and what not to do.
 
