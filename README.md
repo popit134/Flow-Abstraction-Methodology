@@ -3,7 +3,8 @@
 
 A [flow state](https://en.wikipedia.org/wiki/Flow_(psychology)) game design methodology for retention and lucidity through inherent flow.
 
-C-Flow is all about controlling pyschology but with a dynamic form towards a splendid game and limerence. Achieved commonly by engineering it on face value.
+C-Flow is all about controlling pyschology but with a dynamic form towards a splendid game and limerence. Achieved commonly by engineering it on face value. 
+Henee, C-Flow can be plural or substituted evenly across the span.
 
 To get started with 'flow', we have to say that aby background element still affects the flow, atleast in this context.
 
