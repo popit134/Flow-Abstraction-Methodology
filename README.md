@@ -94,4 +94,4 @@ Analyze then expand, notice details not by rigid checkmarks alone but how player
 Focus on what will enhance the meaning and flow. Whether this C-Flow best fits and supplies your game.
 
 # What To Avoid
-- Bloat Features, Pet Peeves, or Major Disatisfactions including pay to win, Frankenstein bloat, & poor game management that defy the unique experience, dynamics, or consistency.
+- Bloat Features, Pet Peeves, or Major Disatisfactions including pay to win, Frankenstein bloat, & poor game management that defy the unique experience, dynamics, or consistency. As these break the flow eventually or intellectually.
