@@ -5,6 +5,8 @@ A [flow state](https://en.wikipedia.org/wiki/Flow_(psychology)) game design meth
 
 C-Flow is all about controlling pyschology but with a dynamic form towards a splendid game and limerence. Achieved commonly by engineering it on face value.
 
+To get started with 'flow', we have to say that aby background element still affects the flow, atleast in this context.
+
 It prioritizes baseline dynamics or pure sensation as the gravity of the game concept.
 
 *"Dynamic" in this context means the motion or nature of the sensation and communication of the game broader than behaviors and actions.*
