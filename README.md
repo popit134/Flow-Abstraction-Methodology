@@ -1,9 +1,9 @@
 # Flow Abstraction
 *C-Flow is an Alternative Word that means Core Flow*
 
-C-Flow is all about controlling pyschology but with a dynamic form towards a splendid game experience and longing. Achieved commonly by directly engineering it on face value.
-
 A [flow state](https://en.wikipedia.org/wiki/Flow_(psychology)) game design methodology for retention and lucidity through inherent flow.
+
+C-Flow is all about controlling pyschology but with a dynamic form towards a splendid game and limerence. Achieved commonly by engineering it on face value.
 
 It prioritizes baseline dynamics or pure sensation as the gravity of the game concept.
 
